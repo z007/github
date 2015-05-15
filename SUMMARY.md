@@ -2,5 +2,5 @@
 
 * [introduction](README.md)
 * [github](github.md)
-* SUMMARY.
+* [SUMMARY](SUMMARY.md)
 
