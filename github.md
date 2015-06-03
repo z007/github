@@ -3,13 +3,17 @@
 [guide](https://education.github.com/guide)    
 [GitHub超详细图文攻略 - Git客户端下载安装 GitHub提交修改源码工作流程 Git分支 标签 过滤 Git版本工作流](http://blog.csdn.net/shulianghan/article/details/18812279)
 
-#git
+#git guide
 [guide](https://education.github.com/guide)  
 [guide2](https://help.github.com/articles/good-resources-for-learning-git-and-github/)   
 [Git Community Book中文版](http://gitbook.liuhui998.com/index.html)   
 [git-book](http://git-scm.com/book/zh/v1)  
-
-# git
+# git-cheat-sheet
+[1](http://liujin.me/blog/2015/05/25/Git-常用命令/)   
+[2](http://ixirong.com/2014/11/19/the-way-to-learn-git/)  
+[3](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)  
+[4](https://education.github.com/git-cheat-sheet-education.pdf)
+# git site
 [git](https://github.com/git)
 * [git-scm](http://git-scm.com/)
 
