@@ -20,7 +20,7 @@
 
 ## msysgit
 [msysgit](https://github.com/msysgit)    
-[msysgit/msysgit](https://github.com/msysgit/msysgit)  
+[msysgitmsysgit](https://github.com/msysgit/msysgit)  
 
 ## download
 [1](http://git-scm.com/download/win)  
